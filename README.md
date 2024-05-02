@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Paolo Bussacchini  
 - 👀 I’m interested in Backend Development, Cloud Computing and DevOps
 - 🌱 I’m currently learning Go and Kubernetes
-- 📫 How to reach me: www.linkedin.com/paolo-bussacchini
+- 📫 How to reach me: www.linkedin.com/in/paolo-bussacchini
 
 
 <!---
